@@ -2,23 +2,23 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
+global.owner = ['6281802626072, ', '59894808483']  
+global.mods = ['6281802626072'] 
+global.prems = ['6281802626072']
+global.nameowner = 'Genzai'
+global.numberowner = '6281802626072' 
+global.mail = 'hhunu31@gmail.com'
 global.dana = '6281395861695'
 global.pulsa = '6281395861695'
 global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
+global.namebot = 'XGuzo'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.web = 'https://github.com/'
+global.instagram = 'https://instagram.com/genzai66'
+global.wm = '© XGuzo'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
+global.wm2 = '⫹⫺ XGuzo'
+global.wm3 = '© XGuzo'
 global.wm4 = '© BotWa'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -29,14 +29,14 @@ global.packname = 'Made with'
 global.author = 'Bot WhatsApp'
 
 
-global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
-global.lann = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.betabotz.org 
+global.btc = '7PENgipq' //Daftar terlebih dahulu https://api.botcahx.live
+global.lann = 'Vny8ilsD' //Daftar terlebih dahulu https://api.betabotz.org 
 
 global.APIs = { 
   tio: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'YOUR_APIKEY_HERE' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': '7PENgipq' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 45
