@@ -169,7 +169,7 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/93cc9fbd431f63a83aabd.jpg',
+                        thumbnailUrl: 'https://telegra.ph/file/ef541425e2b9edd996d38.jpg',
                         sourceUrl: ''
                     }
                 }, mentions: [m.sender]
